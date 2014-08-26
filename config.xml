@@ -13,10 +13,9 @@
   <buildsDir>${ITEM_ROOTDIR}/builds</buildsDir>
   <systemMessage>heydddddddd&#xd;
 dddddd&#xd;
-emptyddddddddsdds&#xd;
+emptyddddddddsddsdd&#xd;
 &#xd;
-sddsdd&#xd;
-a;aaddccdsds</systemMessage>
+</systemMessage>
   <jdks/>
   <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
   <myViewsTabBar class="hudson.views.DefaultMyViewsTabBar"/>
