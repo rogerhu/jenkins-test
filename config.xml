@@ -16,6 +16,7 @@ dddddd&#xd;
 emptyddddddddsddsdd&#xd;
 dd&#xd;
 </systemMessage>
+  <markupFormatter class="hudson.markup.EscapedMarkupFormatter"/>
   <jdks/>
   <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
   <myViewsTabBar class="hudson.views.DefaultMyViewsTabBar"/>
